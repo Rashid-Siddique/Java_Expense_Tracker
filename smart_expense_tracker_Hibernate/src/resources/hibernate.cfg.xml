@@ -21,7 +21,7 @@
         </property>
 
         <property name="hibernate.connection.password">
-            Rashid9890@
+            Admin
         </property>
 
         <property name="hibernate.dialect">
